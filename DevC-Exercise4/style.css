@@ -1,0 +1,16 @@
+body{
+	background-color: yellow;
+}
+
+.jumbotron jumbotron-fluid{
+	background-color: yellow;
+}
+
+.container-fluid{
+	background-color: lightblue;
+}
+
+.rounded float-left{
+	width: 200px;
+	height: 100px;
+}
